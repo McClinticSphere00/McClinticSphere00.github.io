@@ -1,0 +1,12 @@
+baseURL = 'https://McClinticSphere00.github.io/'
+languageCode = 'es-es'
+title = 'Portfolio Pentesting'
+theme = 'PaperMod'
+
+[params]
+defaultTheme = "dark"
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
